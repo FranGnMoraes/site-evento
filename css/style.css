@@ -1,8 +1,9 @@
-root {
-    font-family: Poppins, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    p{
-        font-size: 20px;
-    }
+:root {
+    font-family: 'Poppins', 'Impact', 'Haettenschweiler', 'Arial Narrow Bold', 'sans-serif';
+}
+
+p {
+    font-size: 1rem;
 }
 
 table {
